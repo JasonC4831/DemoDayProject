@@ -1,0 +1,83 @@
+div {
+    font-family: Arial, sans-serif;
+ }
+ #header {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+ }
+
+
+body{
+    background-color: rgb(240, 248, 250);
+}
+
+#NavBar {
+    font-family: Arial, sans-serif;
+    color: rgb(6, 6, 6);
+    font-size: 33px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.items:hover {
+    background-color: gray;
+    opacity: 0.5;
+ }
+
+h1{
+    font-size: 52px;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    font-size: 22px;
+}
+
+p{
+    font-size: 28px;
+}
+
+#homeInfo{
+    font-family: Arial, sans-serif;
+    padding: 50px;
+}
+
+.Section2{
+    font-family: Arial, sans-serif;
+    
+}
+#head{
+    font-size: 21.5px;
+}
+
+#homeSection{
+    display: flex;
+}
+
+h3{
+    font-size: 46px;
+    padding-left: 32px;
+}
+
+h4{
+    font-size: 32px;
+    padding-left: 36px;
+}
+
+img{
+    width: 400px;
+}
+
+#img{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+#about{
+    margin: 70px;
+}
